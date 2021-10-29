@@ -29,14 +29,14 @@ namespace C_task._1._5
 
           }*/
 
-        public string Citys;
+       /* public string Citys;
 
 
         public Home(string Citys)
         {
             this.Citys = Citys;
         }
-
+*/
         
        
 

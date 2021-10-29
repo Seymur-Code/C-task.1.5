@@ -23,7 +23,19 @@ namespace C_task._1._5
             {
                 Console.WriteLine(city1[i].Citys);
             }*/
-            
-         }
+
+            Console.WriteLine("ededi daxil et:");
+            int a = Convert.ToInt32(Console.ReadLine());
+
+            Console.WriteLine("quvveti daxil et");
+            int b = Convert.ToInt32(Console.ReadLine());
+
+            myMath mymath1 = new myMath();
+
+            Console.WriteLine(mymath1.power(a , b));
+
+            ///safasfasf
+
+        }
     }
 }
